@@ -69,7 +69,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/appscrip-task.git
+git clone https://github.com/Harishkumar123456789/Appscrip-task-Harish-Kumar.git
 cd appscrip-task
 
 # Install dependencies
